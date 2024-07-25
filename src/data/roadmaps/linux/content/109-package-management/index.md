@@ -10,4 +10,10 @@ For instance, to install a package in a Debian-based distribution, you would use
 sudo apt-get install <package-name>
 ```
 
+For instance, to install a package in a RHEL-based distribution, you would use the following command in yum / dnf:
+
+```bash
+sudo yum install <package-name> or sudo dnf install <package-name>
+```
+
 Such vital features have made package management systems an integral part of Linux distributions, allowing users to handle applications efficiently.
